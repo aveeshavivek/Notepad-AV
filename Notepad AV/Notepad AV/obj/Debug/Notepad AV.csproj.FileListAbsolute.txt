@@ -1,0 +1,8 @@
+c:\users\vivek bandara\documents\visual studio 2013\Projects\Notepad AV\Notepad AV\bin\Debug\Notepad AV.exe
+c:\users\vivek bandara\documents\visual studio 2013\Projects\Notepad AV\Notepad AV\bin\Debug\Notepad AV.pdb
+c:\users\vivek bandara\documents\visual studio 2013\Projects\Notepad AV\Notepad AV\obj\Debug\Notepad AV.csprojResolveAssemblyReference.cache
+c:\users\vivek bandara\documents\visual studio 2013\Projects\Notepad AV\Notepad AV\obj\Debug\Notepad_AV.Form1.resources
+c:\users\vivek bandara\documents\visual studio 2013\Projects\Notepad AV\Notepad AV\obj\Debug\Notepad_AV.Properties.Resources.resources
+c:\users\vivek bandara\documents\visual studio 2013\Projects\Notepad AV\Notepad AV\obj\Debug\Notepad AV.csproj.GenerateResource.Cache
+c:\users\vivek bandara\documents\visual studio 2013\Projects\Notepad AV\Notepad AV\obj\Debug\Notepad AV.exe
+c:\users\vivek bandara\documents\visual studio 2013\Projects\Notepad AV\Notepad AV\obj\Debug\Notepad AV.pdb
